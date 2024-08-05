@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Karesi",
+	"author": "Karesi de Souza en de professionalite",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
